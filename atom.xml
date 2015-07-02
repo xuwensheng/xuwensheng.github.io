@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title><![CDATA[老徐]]></title>
+  <subtitle><![CDATA[UNIX inside.]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://xuwensheng.github.io//"/>
+  <updated>2015-07-02T18:07:44.142Z</updated>
+  <id>http://xuwensheng.github.io//</id>
+  
+  <author>
+    <name><![CDATA[xuwensheng]]></name>
+    <email><![CDATA[xuwensheng126@126.com]]></email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[《离散数学》读书笔记（0）---开始]]></title>
+    <link href="http://xuwensheng.github.io/2015/07/01/%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%EF%BC%880%EF%BC%89-%E5%BC%80%E5%A7%8B/"/>
+    <id>http://xuwensheng.github.io/2015/07/01/《离散数学》读书笔记（0）-开始/</id>
+    <published>2015-07-01T04:21:58.000Z</published>
+    <updated>2015-07-02T18:07:44.142Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://img4.douban.com/lpic/s3742358.jpg" alt="离散数学"></p>
+<p>几天前，读到一则悲伤的故事：</p>
+<blockquote>
+<p><a href="http://brew.sh" target="_blank" rel="external">Homebrew</a>（Mac OSX上的软件包管理工具） 的作者 <a href="https://mxcl.github.io" target="_blank" rel="external">Max Howell</a> 在 Google 面试后被拒，据说 Google 给出的理由是：</p>
+<blockquote>
+<p>90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck off.</p>
+</blockquote>
+</blockquote>
+<p>这件事引发的吐槽（网上的各色意见可参见 <a href="http://www.zhihu.com/question/31202353?nr=1" target="_blank" rel="external">http://www.zhihu.com/question/31202353?nr=1</a> ）不是这里打算谈论的，我想说的是，读了这个故事以后，我陷入了深深的沉思，既为 Max Howell 悲伤，也为自己悲伤。</p>
+<p>因为，我清楚，和离散数学、数据结构及算法相关的种种，已被自己压在某个不知名的箱底很久了。先贤有云，活到老，学到老，诚不我欺也。</p>
+<p>所以，我默默地重新翻出这本书（见题图），阅读，笔记。</p>
+<p>之所以选择这本而不是其它本，是因为这是我所看过的内容最为广博的离散数学教材，并附有大量接地气的练习。同时安利一下，“全美经典学习指导系列”是一套好教材。</p>
+<p>在以后的时间里，我打算陆续记录一下这个阅读过程，希望自己能够坚持下来。</p>
+<p>就是这样。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://img4.douban.com/lpic/s3742358.jpg" alt="离散数学"></p>
+<p>几天前，读到一则悲伤的故事：</p>
+<blockquote>
+<p><a href="http://brew.sh" target]]>
+    </summary>
+    
+      <category term="数学" scheme="http://xuwensheng.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="读书笔记" scheme="http://xuwensheng.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="《离散数学》读书笔记" scheme="http://xuwensheng.github.io/categories/%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[hello, world]]></title>
+    <link href="http://xuwensheng.github.io/2015/06/04/hello-world/"/>
+    <id>http://xuwensheng.github.io/2015/06/04/hello-world/</id>
+    <published>2015-06-03T16:00:00.000Z</published>
+    <updated>2015-07-02T18:55:22.346Z</updated>
+    <content type="html"><![CDATA[<p>折腾了一段时间，给自己的博客搬了一个家，地址是 <a href="http://xuwensheng.com" target="_blank" rel="external">http://xuwensheng.com</a> 。</p>
+<p>关于为什么要写博客这个问题，这里推介几篇文：</p>
+<blockquote>
+<p><a href="http://www.ruanyifeng.com/home.html" target="_blank" rel="external">阮一峰</a>的<a href="http://www.ruanyifeng.com/blog/2006/12/why_i_keep_blogging.html" target="_blank" rel="external">为什么要写Blog？</a>。</p>
+<p><a href="http://mindhacks.cn" target="_blank" rel="external">刘未鹏</a>的<a href="http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now" target="_blank" rel="external">为什么你应该（从现在开始就）写博客</a>。</p>
+</blockquote>
+<p>因为是新的开始，所以原来的博客并未存档。</p>
+<p>依上古惯例，本博客从这里开始：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">print(<span class="string">'hello, world'</span>)</span><br></pre></td></tr></table></figure>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>折腾了一段时间，给自己的博客搬了一个家，地址是 <a href="http://xuwensheng.com" target="_blank" rel="external">http://xuwensheng.com</a> 。</p>
+<p>关于为什么要写博客这个问题，这]]>
+    </summary>
+    
+      <category term="xuwensheng" scheme="http://xuwensheng.github.io/tags/xuwensheng/"/>
+    
+      <category term="xuwensheng" scheme="http://xuwensheng.github.io/categories/xuwensheng/"/>
+    
+  </entry>
+  
+</feed>
