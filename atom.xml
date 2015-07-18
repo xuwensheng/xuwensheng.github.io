@@ -5,7 +5,7 @@
   <subtitle><![CDATA[UNIX inside.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://xuwensheng.github.io//"/>
-  <updated>2015-07-02T18:07:44.142Z</updated>
+  <updated>2015-07-18T21:08:47.247Z</updated>
   <id>http://xuwensheng.github.io//</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://xuwensheng.github.io/2015/07/01/%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%EF%BC%880%EF%BC%89-%E5%BC%80%E5%A7%8B/"/>
     <id>http://xuwensheng.github.io/2015/07/01/《离散数学》读书笔记（0）-开始/</id>
     <published>2015-07-01T04:21:58.000Z</published>
-    <updated>2015-07-02T18:07:44.142Z</updated>
+    <updated>2015-07-18T21:08:47.247Z</updated>
     <content type="html"><![CDATA[<p><img src="http://img4.douban.com/lpic/s3742358.jpg" alt="离散数学"></p>
 <p>几天前，读到一则悲伤的故事：</p>
 <blockquote>
@@ -30,7 +30,7 @@
 </blockquote>
 </blockquote>
 <p>这件事引发的吐槽（网上的各色意见可参见 <a href="http://www.zhihu.com/question/31202353?nr=1" target="_blank" rel="external">http://www.zhihu.com/question/31202353?nr=1</a> ）不是这里打算谈论的，我想说的是，读了这个故事以后，我陷入了深深的沉思，既为 Max Howell 悲伤，也为自己悲伤。</p>
-<p>因为，我清楚，和离散数学、数据结构及算法相关的种种，已被自己压在某个不知名的箱底很久了。先贤有云，活到老，学到老，诚不我欺也。</p>
+<p>因为，我清楚，和离散数学、数据结构及算法相关的种种，已被某条不知名的狗吃了。先贤有云，活到老，学到老，诚不我欺也。</p>
 <p>所以，我默默地重新翻出这本书（见题图），阅读，笔记。</p>
 <p>之所以选择这本而不是其它本，是因为这是我所看过的内容最为广博的离散数学教材，并附有大量接地气的练习。同时安利一下，“全美经典学习指导系列”是一套好教材。</p>
 <p>在以后的时间里，我打算陆续记录一下这个阅读过程，希望自己能够坚持下来。</p>
